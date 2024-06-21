@@ -17,7 +17,7 @@ Document Everything: Keep a detailed log of my daily learning and progress.
 
 I'll be updating this section daily with my progress and share useful resources for the learning.
 
-I'll be using the roadmap by https://www.madebygps.com/cloudcamp/ tweaked into my own version and research
+I'll be using the roadmap by https://www.madebygps.com/cloudcamp/ tweaked into my own version and research.
 
 **How to Contribute**
 
