@@ -11,7 +11,7 @@ Cloud computing is a powerful and versatile field, and I'm excited to dive into 
 Understand Cloud Basics: Learn fundamental cloud concepts and terminology.
 Explore Cloud Providers: Gain hands-on experience with AWS, Azure, and Google Cloud.
 Work on Projects: Apply my knowledge by working on small cloud projects.
-Document Everything: Keep a detailed log of my daily learning and progress.
+Document Everything: Keep a detailed log of my daily learning and progress
 
 **Daily Progress**
 
