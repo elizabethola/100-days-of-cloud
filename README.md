@@ -1,4 +1,4 @@
-**100 Days of Cloud**
+h**100 Days of Cloud**
 
 Welcome to my 100 Days of Cloud journey! This is a personal challenge where I will spend time every day for 100 days learning about cloud computing. I'll document my progress, share what I learn, and provide resources that helped me along the way.
 
@@ -9,7 +9,7 @@ Cloud computing is a powerful and versatile field, and I'm excited to dive into 
 **My Goals**
 
 Understand Cloud Basics: Learn fundamental cloud concepts and terminology.
-Explore Cloud Providers: Gain hands-on experience with AWS, Azure, and Google Cloud.
+Explore Cloud Providers: Gain hands-on experience with AWS, Azure,or Google Cloud
 Work on Projects: Apply my knowledge by working on small cloud projects.
 Document Everything: Keep a detailed log of my daily learning and progress.
 
