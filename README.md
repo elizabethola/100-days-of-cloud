@@ -24,4 +24,4 @@ I'll be using the roadmap by https://www.madebygps.com/cloudcamp/ tweaked into m
 If you have any suggestions, resources, or tips that could help me on my journey, please feel free to open an issue or a pull request. Your contributions are greatly appreciated!
 
 
-Thank you for following along on my cloud journey! I'm excited!.
+Thank you for following along on my cloud journey! I'm excited!
