@@ -19,7 +19,7 @@ I'll be updating this section daily with my progress and share useful resources 
 
 I'll be using the roadmap by https://www.madebygps.com/cloudcamp/ tweaked into my own version and research.
 
-**How to Contribute** .
+**How to Contribute** 
 
 If you have any suggestions, resources, or tips that could help me on my journey, please feel free to open an issue or a pull request. Your contributions are greatly appreciated!
 
