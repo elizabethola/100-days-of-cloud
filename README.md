@@ -1,5 +1,5 @@
 **100 Days of Cloud**
-
+...
 Welcome to my 100 Days of Cloud journey! This is a personal challenge where I will spend time every day for 100 days learning about cloud computing. I'll document my progress, share what I learn, and provide resources that helped me along the way.
 
 **Introduction**
