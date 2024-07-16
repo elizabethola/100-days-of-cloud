@@ -25,4 +25,3 @@ If you have any suggestions, resources, or tips that could help me on my journey
 
 
 Thank you for following along on my cloud journey! I'm excited!
-...
