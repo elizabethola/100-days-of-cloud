@@ -13,7 +13,7 @@ Explore Cloud Providers: Gain hands-on experience with AWS, Azure, or Google Clo
 Work on Projects: Apply my knowledge by working on small cloud projects.
 Document Everything: Keep a detailed log of my daily learning and progress..
 
-**Daily Progress**..
+**Daily Progress**
 
 I'll be updating this section daily with my progress and share useful resources for the learning.
 
